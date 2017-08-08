@@ -1,0 +1,6 @@
+.ipy*
+__pycache__
+*.pyc
+.venv
+*.swp
+logs/

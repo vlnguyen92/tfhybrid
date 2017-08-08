@@ -1,0 +1,13 @@
+{
+    title: 'HybridAlex'
+    group: 'Python'
+    paths: [
+        '.'
+    ]
+    devMode: false
+    settings:
+        'editor.tabLength': 4
+        'editor.showInvisibles': true
+        'autocomplete-python.pythonPaths': '/home/aetf/.local/venvs/tf/bin/python'
+        'linter-flake8.executablePath': '/usr/bin/flake8'
+}
